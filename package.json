@@ -1,0 +1,25 @@
+{
+  "name": "string_transformer",
+  "version": "1.0.0",
+  "description": "Simple string encrypter and decrypter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corasan/string_transformer_npm.git"
+  },
+  "keywords": [
+    "encrypt",
+    "string",
+    "transform",
+    "decrypt"
+  ],
+  "author": "Henry Paulino <henrypl360@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corasan/string_transformer_npm/issues"
+  },
+  "homepage": "https://github.com/corasan/string_transformer_npm#readme"
+}
