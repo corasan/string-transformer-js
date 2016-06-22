@@ -2,7 +2,7 @@
 
 
 ## Installation
-$ npm i string_transformer
+``$ npm i string_transformer``
 
 ## Usage
 ```
