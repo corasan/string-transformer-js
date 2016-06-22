@@ -1,5 +1,5 @@
 # String Transformer
-
+Generates a new longer string.
 
 ## Installation
 ``$ npm i string_transformer``
