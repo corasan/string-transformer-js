@@ -2,6 +2,8 @@
 
 Generates a new longer string.
 
+I'm still working on this, I will add more features to it.
+
 ## Installation
 
 ``$ npm i string_transformer``
