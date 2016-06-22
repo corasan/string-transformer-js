@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/corasan/string_transformer_npm/issues"
   },
-  "homepage": "https://github.com/corasan/string_transformer_npm#readme"
+  "homepage": "https://github.com/corasan/string_transformer_npm#readme",
+  "dependencies": {
+    "shuffle-array": "^1.0.0"
+  }
 }
