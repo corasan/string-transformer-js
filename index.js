@@ -5,5 +5,5 @@ module.exports = function(string) {
     var new_arr = string.split('').map(function(letter) {
         return letter.replace(letter, shuffle(arr).slice(0,5).join().replace(/,/g, ''));
     });
-    // console.log(new_arr.join().replace(/,/g, ''));
+    return new_arr.join().replace(/,/g, '');
 }
