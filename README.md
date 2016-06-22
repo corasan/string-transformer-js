@@ -8,7 +8,8 @@ Generates a new longer string.
 ```javascript
 var transform = require('string_transformer');
 transform('Hello World!');
-
-// Returns something like this:
+```
+You will get something like this:
+```javascript
 "oAp68dM8Cg6DSv0UDNTrtYwkghSFfGCSa3dpeYZyjT45NJTIlP"
 ```
