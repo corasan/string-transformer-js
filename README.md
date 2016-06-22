@@ -5,7 +5,7 @@ Generates a new longer string.
 ``$ npm i string_transformer``
 
 ## Usage
-```
+```javascript
 var transform = require('string_transformer');
 transform('Hello World!');
 
